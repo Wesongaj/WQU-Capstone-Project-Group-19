@@ -3,7 +3,7 @@
 
 * Framework to capture the dynamics of high-frequency limit order books.
 
-  <img src="./Graphs/.png" width="650">
+  <img src="./Graphs/bse colocation trading arch.png" width="650">
   
 #### Overview
 
@@ -13,11 +13,11 @@ In this project I used machine learning methods to capture the high-frequency li
 
   * Auto-Correlation
   
-    <img src="./Graphs/.png" width="650">
+    <img src="./Graphs/AC.png" width="650">
 
   * Normal Distribution
   
-    <img src="./Graphs/.png" width="650">
+    <img src="./Graphs/Normal.png" width="650">
     
     [Note] : [Feature_Selection] (Feature_Selection) 
  
