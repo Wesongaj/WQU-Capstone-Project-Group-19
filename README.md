@@ -3,7 +3,7 @@
 
 * Framework to capture the dynamics of high-frequency limit order books.
 
-  <img src="./Graph/pipline.png" width="650">
+  <img src="./Graphs/.png" width="650">
   
 #### Overview
 
@@ -11,13 +11,13 @@ In this project I used machine learning methods to capture the high-frequency li
 
 * Feature Extractor
 
-  * Rise Ratio
+  * Auto-Correlation
   
-    <img src="./Graph/Price_B1A1.png" width="650">
+    <img src="./Graphs/.png" width="650">
 
-  * Depth Ratio
+  * Normal Distribution
   
-    <img src="./Graph/depth.png" width="650">
+    <img src="./Graphs/.png" width="650">
     
     [Note] : [Feature_Selection] (Feature_Selection) 
  
@@ -31,15 +31,13 @@ In this project I used machine learning methods to capture the high-frequency li
   
 *  Use best model to predict next 10 seconds
 
-   <img src="./Graph/CV_Best_Model.png" width="650">
+   <img src="./Graphs/.png" width="650">
    
 *  Prediction outcome
 
-   <img src="./Graph/prediction.png" width="650">
+   <img src="./Graphs/.png" width="650">
    
-*  Profit & Loss
 
-   <img src="./Graph/P_L.png" width="650">
    
    [Note] : [Model_Selection] (Model_Selection) 
 
