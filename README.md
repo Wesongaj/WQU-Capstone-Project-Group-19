@@ -27,6 +27,6 @@ In this project I used machine learning methods to capture the high-frequency li
 
   * Normal Distribution
   
-   [Note] : [Model_Selection] (Model_Selection) 
+
 
  
