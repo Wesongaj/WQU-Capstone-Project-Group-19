@@ -13,7 +13,7 @@ In this project I used machine learning methods to capture the high-frequency li
 
   * Auto-Correlation
   
-    <img src="./Graphs/AC.png" width="650">
+    <img src="./Graphs/79790109-ea9e7980-8353-11ea-97a7-57fd01e1f31c.png" width="650">
 
   * Normal Distribution
   
