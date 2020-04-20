@@ -1,7 +1,19 @@
 ## WQU-Capstone-Project-Group-19
 ## Modeling the Benefits of co-location/Proximity hosting to Matching Engines on HFT Using Machine Learning 
 
-* Framework to capture the dynamics of high-frequency order books and trading system. 
+* Framework to capture the dynamics of high-frequency order books and trading system.
+
+* Dependencies:
+  * pandas
+  * numpy
+  * statsmodels.graphics.tsaplots.acf
+  * matplotlib.pyplot
+  * sklearn.preprocessing.OneHotEncoder
+  * sklearn.metrics
+  * os
+  * yahoo-finance
+  
+
 
 #### Overview
 
