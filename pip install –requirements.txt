@@ -1,0 +1,17 @@
+
+
+#Run the following to install
+
+pip install yahoofinancials
+
+pip install yfinance --upgrade --no-cache-dir
+
+pip install pandas_datareader
+
+
+#importing the necessary libraries
+from pandas_datareader import data
+import pandas as pd
+import yfinance as yf
+import yahoofinancials
+import matplotlib.pyplot as plt
