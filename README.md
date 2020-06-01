@@ -18,7 +18,7 @@
 #### Overview
 
 In this project I used machine learning methods to capture the high-frequency limit order book dynamics and simple trading strategy to study and analyse the benefits of co-location/Proximity hosting to Matching Engines on HFT.
-file:///home/james/Desktop/Machine%20Learning.png
+
 
 * Feature Extractor
 
