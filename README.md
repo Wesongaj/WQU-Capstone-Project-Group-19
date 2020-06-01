@@ -1,6 +1,9 @@
 ## WQU-Capstone-Project-Group-19
 ## Modeling the Benefits of co-location/Proximity hosting to Matching Engines on HFT Using Machine Learning 
 
+Low-latency and system turnaround time requirements for HFT systems generally influence trading firms’ decisions about their choice of networks and physical hardware location of their servers. Over time, all major world exchanges have established co-
+location data centers to accommodate the demand for speed and to capitalize on the value of proximity to their matching engines.Co-Location of HFT servers near the Exchanges’ premises has been associated with reduction of latency,increases market liquidity and reduces bid-ask price as studied by this research paper based in BSE India.
+
 * Framework to capture the dynamics of high-frequency order books and trading system.
 
 * Dependencies:
