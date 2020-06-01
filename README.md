@@ -25,14 +25,15 @@ In this project I used machine learning methods to capture the high-frequency li
 
 https://github.com/Wesongaj/WQU-Capstone-Project-Group-19/commit/b639603c82bc54dcd7c81ad88ae69dc5e17d696c#commitcomment-39585174
 
-Adopting a supervised learning Algorithmic Classifier such as SVC, AdaBoost Classifier, Random Forest classifier, GradientBoosting Classifier, ExtraTree Classifier.  
-* Feature Extractor
+Adopting a supervised learning Algorithmic Classifier such as SVC, AdaBoost Classifier, Random Forest classifier, GradientBoosting Classifier, ExtraTree Classifier
 
-  * Volatility
+* Input Data
+* Training and Testing Data
+* Classification
+* Model Selection
+* Output prediction
+
   
-  * Auto-Correlation
-
-  * Normal Distribution
   
 
 
